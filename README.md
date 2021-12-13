@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My homepage is here! Link: https://lamberkeep.github.io/
+### My new homepage is here: https://lamberkeep.github.io/
