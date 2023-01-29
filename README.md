@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**LamberKeep/LamberKeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 💼 Occupation: Student (unemployed)
+- 🎮 Hobbies: Coding, [Anime](https://myanimelist.net/profile/LamberKeep), [Games](https://steamcommunity.com/id/LamberKeep/)
+- 🎂 Birthday: April 12
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working on
+
+- 🔭 I’m currently working on [WorldAuth](https://github.com/LamberKeep/WorldAuth)
+- 🌱 I’m currently learning Java
+
+## Contacts
+
+- 🗣️ Pronouns: He/him
+- 📫 Reach me: [Telegram](https://t.me/LamberKeep), Email (see profile)
