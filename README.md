@@ -8,7 +8,7 @@
 
 ## Working on
 
-- 🔭 I’m currently working on [WorldAuth](https://github.com/LamberKeep/WorldAuth)
+- 🔭 I’m currently working on private repositories
 - 🌱 I’m currently learning Java
 
 ## Contacts
